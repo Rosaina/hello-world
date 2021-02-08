@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello people!
+
+Ros here. Nice to e-meet you.
